@@ -1,6 +1,6 @@
 # Deployed Link
 
-https://gentle-jalebi-604c62.netlify.app/
+[https://gentle-jalebi-604c62.netlify.app/](https://wondrous-semolina-24db90.netlify.app/)
 
 # Getting Started with Create React App
 
